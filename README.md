@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development**
 
-- 💬 Ask me about **Blockchain,Solidity,Typescript, C++, javascript,HTML**
+- 💬 Ask me about **Blockchain,Solidity,Typescript, C++, javascript,HTML, DSA, Coding, Software development
 
 - 📫 How to reach me **mukul798348@gmail.com**
 
