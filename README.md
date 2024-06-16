@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mukul Gupta</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer Graduated from IIT Guwahati'23</h3>
 
 - 🔭 I’m currently working on **Blockchain Technology**
 
 - 👯 I’m looking to collaborate on **Software Development*, *Backend Development*, *Blockchain Development*, *Python Development**
 
-- 💬 Ask me about **Blockchain,Solidity,Typescript, C++, javascript, HTML, DSA, Coding, Software development, Python, React.
+- 💬 Ask me about **Blockchain, Data structure and algogithms, Solidity, Typescript, C++, javascript, HTML, Coding, Software development, Python, React.
 
 - 📫 How to reach me **mukul798348@gmail.com**
 
-- 📄 Know about my experiences[https://drive.google.com/file/d/1hhvtxxt1tq7rf7m80Pnrye0Aptdh1X5c/view?usp=drive_link](https://drive.google.com/file/d/1zChUxejmX_c8zn5H2osqw31GHhp4dr5I/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1zChUxejmX_c8zn5H2osqw31GHhp4dr5I/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
