@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mukul798348@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hhvtxxt1tq7rf7m80Pnrye0Aptdh1X5c/view?usp=drive_link](https://drive.google.com/file/d/1hhvtxxt1tq7rf7m80Pnrye0Aptdh1X5c/view?usp=drive_link)
+- 📄 Know about my experiences[https://drive.google.com/file/d/1hhvtxxt1tq7rf7m80Pnrye0Aptdh1X5c/view?usp=drive_link](https://drive.google.com/file/d/1zChUxejmX_c8zn5H2osqw31GHhp4dr5I/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
