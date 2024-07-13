@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukul Gupta</h1>
 <h3 align="center">A passionate Backend developer Graduated from IIT Guwahati'23</h3>
 
-- 🔭 I’m currently working on **Blockchain Technology**
+- 🔭 I’m currently working on **Backend Technology**
 
 - 👯 I’m looking to collaborate on **Software Development*, *Backend Development*, *Blockchain Development*, *Python Development**
 
