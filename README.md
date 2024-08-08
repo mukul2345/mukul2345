@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mukul Gupta</h1>
-<h3 align="center">A passionate Backend developer Graduated from IIT Guwahati'23</h3>
+<h3 align="center">I am Mukul Gupta, a dedicated and highly skilled software developer with a B.Tech. degree from IIT Guwahati. Specializing as a MERN stack developer, I excel in backend development and decentralized finance (DeFi) applications. My technical expertise includes C++, Python, Javascript, and Solidity, along with a strong foundation in algorithms and data structures. Known for my problem-solving abilities and analytical thinking, I am committed to delivering high-quality software solutions. With a passion for innovation and continuous improvement. I am eager to leverage my skills to contribute to impactful projects and drive organizational success.</h3>
 
-- 🔭 I’m currently working on **Backend Technology**
+- 🔭 I’m currently working on **Full-Stack Technology**
 
 - 👯 I’m looking to collaborate on **Software Development*, *Backend Development*, *Blockchain Development*, *Python Development**
 
 - 💬 Ask me about **Blockchain, Data structure and algogithms, Solidity, Typescript, C++, javascript, HTML, Coding, Software development, Python, React.
 
 - 📫 How to reach me **mukul798348@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/19wnxuNLg8D6k-9JZqxQGwiy608mgOdme/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
